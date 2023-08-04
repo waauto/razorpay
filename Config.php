@@ -1,10 +1,10 @@
 <?php
 return [
-    'id' => 'paypal',
+    'id' => 'razorpay',
     'folder' => 'plugins',
-    'name' => 'Paypal',
-    'author' => 'Stackcode',
-    'author_uri' => 'https://stackposts.com',
+    'name' => 'Razorpay',
+    'author' => 'Kushal Verma',
+    'author_uri' => 'https://kushalverma.in',
     'desc' => 'Customize system interface',
     'icon' => 'fad fa-money-check',
     'color' => '#17c7ff',
